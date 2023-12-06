@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @taha-zolghadr
+- 👀 I’m interested in back-end and Ai
+- 🌱 I’m currently learning Data Science
+- 📫 telegram : @lilzimos
